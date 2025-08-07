@@ -1,0 +1,16 @@
+# Ignore virtual environments
+new/
+
+# Ignore database and model files (optional)
+db.sqlite3
+*.h5
+
+# Ignore __pycache__ and compiled files
+__pycache__/
+*.pyc
+
+# Ignore dataset folders
+ISL_DATASET/
+ISL_subset/
+train/
+val/
